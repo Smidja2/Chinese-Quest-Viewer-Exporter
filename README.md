@@ -1,4 +1,7 @@
 # Chinese-Quest-Viewer-Exporter
+
+https://smidja2.github.io/Chinese-Quest-Viewer-Exporter/
+
 Exporter for PKMN Quest (Chinese Ver.)
 
 Import your APK of Pokemon Quest Chinese Version 1.18.0 (com.netease.pq.apk)
